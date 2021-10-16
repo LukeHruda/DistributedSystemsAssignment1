@@ -1,4 +1,4 @@
-# DistributedSystemsAssignment1
+# Distributed Systems Assignment 1
 
 The client - server can be run in the following steps
 1. Open two command prompts in the directory where the files are stored.
