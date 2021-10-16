@@ -10,8 +10,8 @@ ex. Client => java Client.java localhost 6066
 
 You may then begin to type requests in the client terminal
 Commands include:  
-  fib <int>  
-  prime <int>  
+  fib  [int]  
+  prime [int]  
   stats  
   help  
   close
